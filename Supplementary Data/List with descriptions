@@ -1,1 +1,13 @@
-1.) 
+1.) List 1: Genomes and taxonomy
+2.) Datasheet 1: Marker gene data (copy number, variation etc)
+3.) Datasheet 2: UCLUST data (clustering, taxonomy, and per genome cluster groups, FIGURE 5)
+4.) Datasheet 3: Orthofinder raw data
+5.) Datasheet 4: tBlastn data (testing for evolutionary change and annotation checks)
+6.) Datasheet 5: Boxplot data (orthofinde and uclust combined to generate FIGURE 6)
+7.) Datasheet 6: Raw functional data and other sheets related to FIGURE 7
+
+Scripts
+1.)
+
+
+
