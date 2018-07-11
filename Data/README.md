@@ -6,7 +6,7 @@ table of genomes and taxonomy used in this study [organism_taxonomy.xls](https:/
 
 ## Gene Extracting
 
-log of 16S sequences extracted from genomes is located in [gene_and_length_all.xls)](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Data/gene_and_length_all.xls).
+log of 16S sequences extracted from genomes is located in [gene_and_length_all.xls)](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Data/gene_and_length_all.xls)
 
 
 
