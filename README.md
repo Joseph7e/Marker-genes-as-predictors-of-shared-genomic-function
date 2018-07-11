@@ -61,3 +61,12 @@ Given a list of genomes to compare the script [auto_orthofinder.py](https://gith
 The script [orthofinder_parse_for_percent_shared_genes.py](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Python%20Scripts/orthofinder_parse_for_percent_shared_genes.py) is used to parse orthofinder output and provide a table of percent shared genes.
 
 
+## Comparing percent shared genes with marker gene identity
+
+Given parsed output from "Sequencing clustering" and "Percent shared genes" the script [combine_ortho_and_uclust.py](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Python%20Scripts/combine_ortho_and_uclust.py) constructs a table with the columns percent identity, and percent shared genes.
+
+
+
+## Functional analysis
+
+All scripts used to construct figures and data tables for the functional analysis are available in the [functional_methods/](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/tree/master/Python%20Scripts/functional_methods)
