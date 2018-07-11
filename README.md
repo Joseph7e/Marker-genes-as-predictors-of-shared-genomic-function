@@ -1,5 +1,7 @@
 # Metabarcodes as predictors of shared genomic function
-Supplementary materials and scripts. https://zenodo.org/badge/57385450.svg
+Supplementary materials and scripts.
+
+Release: https://doi.org/10.5281/zenodo.1309979
 
 [Link to data sheets](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/tree/master/Data)
 
