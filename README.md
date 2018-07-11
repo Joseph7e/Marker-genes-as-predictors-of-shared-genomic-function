@@ -4,7 +4,7 @@ Supplementary materials and scripts for paper
 
 
 
-## Prokaryote genome dataset and gene extraction
+## Prokaryote genome dataset
 
 link to NCBI prokaryote tables: https://www.ncbi.nlm.nih.gov/genome/browse#!/prokaryotes/
 
