@@ -17,8 +17,8 @@ link to genome reports FTP: ftp://ftp.ncbi.nlm.nih.gov/genomes/GENOME_REPORTS/
 wget "ftp://ftp.ncbi.nlm.nih.gov/genomes/GENOME_REPORTS/prokaryotes.txt"
 ```
 
-Column 2: Taxonomy information
-Column 20: Is it a reference genomes
+Column 2: Taxonomy information,
+Column 20: Reference Genome flag, and
 Column 21: ftp download path
 
 All genomes and annotation files denoted "REPR" in column 20 were downloaded following the ftp links.
@@ -40,5 +40,24 @@ The V4 region of the 16S rRNA was extracted in silico using [fasta_amplify](http
 Single-copy genes used in the MLSA-like dataset were concatenated together using [concat_housekeeping_genes.py](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Python%20Scripts/concat_housekeeping_genes.py)
 
 
+## Intra Organism 16S rRNA variation
+
+The script [variation_stats.py](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Python%20Scripts/variation_stats.py) was used to output gene copy number, lengths, and variation stats from each genome.
+
+
+## Sequence clustering
+
+Marker gene clustering was completed using [uclustPipeline.py](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Python%20Scripts/uclustPipeline.py)
+
+Parsing clustering data was completeed using [parse_uclust.py](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Python%20Scripts/parse_uclust.py)
+
+Python scripts beginning with "clustering" were used to construct input tables for "marker gene clustering" figures (currently Figure 4).
+
+
+## Percent shared genes
+
+Given a list of genomes to compare the script [auto_orthofinder.py](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Python%20Scripts/auto_orthofinder.py) runs orthofinder on all genomes.
+
+The script [orthofinder_parse_for_percent_shared_genes.py](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Python%20Scripts/orthofinder_parse_for_percent_shared_genes.py) is used to parse orthofinder output and provide a table of percent shared genes.
 
 
