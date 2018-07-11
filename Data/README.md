@@ -23,6 +23,7 @@ A table with  the total 16S gene copies, sequence lengths (min, max, and average
 A complete list of pairwise comparisons for the 16S variable region dataset [amplified_16S_comparisons.xls](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Data/amplified_16S_comparisons.xls)
 
 
+Parsed orthofinder table can be found here [all_round_comparsion_result.csv](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Data/all_round_comparsion_result.csv)
 
 ## clustering sequences
 
