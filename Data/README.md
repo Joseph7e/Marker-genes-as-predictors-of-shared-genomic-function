@@ -1,5 +1,5 @@
 
-## Dataset taxonomy
+## Genome dataset w/ taxonomy
 
 table of genomes and taxonomy used in this study [organism_taxonomy.xls](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Data/organism_taxonomy.xls)
 
