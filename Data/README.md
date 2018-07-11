@@ -28,4 +28,3 @@ A complete list of pairwise comparisons for the 16S variable region dataset [amp
 
 The data sheet [all_unaligned_clustalInfo.csv](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Data/all_unaligned_clustalInfo.csv) containes the parsed uclust clustering data for each clustering group.
 
-The data sheet [all_unaligned_clustalSummary.xls](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Data/all_unaligned_clustalSummary.xls) contains a summary of 
