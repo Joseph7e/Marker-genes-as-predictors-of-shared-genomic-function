@@ -1,12 +1,4 @@
 
-
-
-4.) Datasheet 4: Orthofinder raw data
-5.) Datasheet 5: tBlastn data (testing for evolutionary change and annotation checks)
-6.) Datasheet 6: Boxplot data (orthofinde and uclust combined to generate FIGURE 6)
-7.) Datasheet 7: Raw functional data and other sheets related to FIGURE 7
-
-
 ## Dataset taxonomy
 
 table of genomes and taxonomy used in this study [organism_taxonomy.xls](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Data/organism_taxonomy.xls)
