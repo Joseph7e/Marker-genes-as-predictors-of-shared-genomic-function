@@ -42,4 +42,11 @@ Tables containing individual datasets for the complete 16S gene outlining orthof
 Tables containing individual datasets for the V4 variable portion of 16S gene outlining orthofinder runs matched to percent identity groups are located in [matched_amplified_16S_clusters/](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/tree/master/Data/matched_amplified_16S_clusters)
 
 
+## Functional Data
+
+All data sheets for shared and unshared gene datasets are found in [Supplementary_functional_sheets.xlsx](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Data/Supplementary_functional_sheets.xlsx). Note the seperate sheets for each GO group.
+
+The headers are, GO term,	# protein accessions,	mean macthed, mean unmatched,	t-value,	p-value
+
+
 
