@@ -29,13 +29,11 @@ The script [gene_extractor.py](https://github.com/Joseph7e/Marker-genes-as-predi
 
 Annotations for 16S rRNA and each housekeeping genes used in this study are hard coded into the script. For example, the 16S genes must contain "16S" in the annotation and be of type ("Rrna", "rrna","rRNA").
 
-
-### V4 dataset specific method
+* V4 dataset specific method
 
 The V4 region of the 16S rRNA was extracted in silico using [fasta_amplify](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Python%20Scripts/fasta_amplify.py)
 
-
-### MLSA dataset specific method
+* MLSA dataset specific method
 
 Single-copy genes used in the MLSA-like dataset were concatenated together using [concat_housekeeping_genes.py](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Python%20Scripts/concat_housekeeping_genes.py)
 
