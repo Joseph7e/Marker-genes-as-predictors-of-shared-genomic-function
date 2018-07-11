@@ -34,7 +34,7 @@ The data sheet [all_unaligned_clustalInfo.csv](https://github.com/Joseph7e/Marke
 Tables for each clustering group for the complete 16S, variable region of the 16S and MLSA-like dataset are available in the folder [analysis_what_matches](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/tree/master/Data/analysis_what_matches). The column headers are clustering_group, percent shared genes, genomes_compared, species, full_taxonomy.
 
 
-## Tables used to generate percnet identity vs. shared gene content box plots
+## Tables used to generate percent identity vs. shared gene content box plots
 
 Tables containing individual datasets for the complete 16S gene outlining orthofinder runs matched to percent identity groups are located in [matched_complete_16S_clusters/](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/tree/master/Data/matched_complete_16S_clusters)
 
