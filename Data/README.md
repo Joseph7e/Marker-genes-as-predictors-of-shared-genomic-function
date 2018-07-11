@@ -44,7 +44,7 @@ Tables containing individual datasets for the V4 variable portion of 16S gene ou
 
 ## Functional Data
 
-All data sheets for shared and unshared gene datasets are found in [Supplementary_functional_sheets.xlsx](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Data/Supplementary_functional_sheets.xlsx). Note the seperate sheets for each GO group.
+All data sheets for shared and unshared gene datasets are found in [Supplementary_functional_sheets.xlsx](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Data/Supplementary_functional_sheets.xlsx). Note the seperate sheets for each GO group. A datasheet with all this data concatenated into one file is located here [Supplementary_datasheet5_functional_assignments.xlsx](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Data/Supplementary_datasheet5_functional_assignments.xlsx)
 
 The headers are, GO term,	# protein accessions,	mean macthed, mean unmatched,	t-value,	p-value
 
