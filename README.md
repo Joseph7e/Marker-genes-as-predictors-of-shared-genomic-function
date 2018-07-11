@@ -1,5 +1,7 @@
 # Metabarcodes as predictors of shared genomic function
-Supplementary materials and scripts for paper
+Supplementary materials and scripts
+
+[Link to data sheets](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/tree/master/Data)
 
 
 
