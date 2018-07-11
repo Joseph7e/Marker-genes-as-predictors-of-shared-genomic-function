@@ -5,13 +5,3 @@
 5.) Datasheet 5: tBlastn data (testing for evolutionary change and annotation checks)
 6.) Datasheet 6: Boxplot data (orthofinde and uclust combined to generate FIGURE 6)
 7.) Datasheet 7: Raw functional data and other sheets related to FIGURE 7
-
-Scripts
-1.) gene_extractor.py
-2.) fasta_amplify.py
-3.) mlsa_concat.py
-4.) uclust_pipeline.py
-5.) groups_per_cluster.py
-6.) taxonomy_comparison.py
-7.) run_orthofinder.py
-8.) combined_orthofinder_uclust.py
