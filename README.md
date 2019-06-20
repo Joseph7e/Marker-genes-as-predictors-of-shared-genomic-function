@@ -60,6 +60,8 @@ Python scripts beginning with "clustering" were used to construct input tables f
 
 Given a list of genomes to compare the script [auto_orthofinder.py](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Python%20Scripts/auto_orthofinder.py) runs orthofinder on all genomes.
 
+The program orthofinder.py is available from https://github.com/davidemms/OrthoFinder
+
 The script [orthofinder_parse_for_percent_shared_genes.py](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Python%20Scripts/orthofinder_parse_for_percent_shared_genes.py) is used to parse orthofinder output and provide a table of percent shared genes.
 
 
