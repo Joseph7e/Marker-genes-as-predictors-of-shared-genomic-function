@@ -1,12 +1,12 @@
 # Script Usage examples.
 
-## auto_orthofinder.py
+### auto_orthofinder.py
 
 Given a list of genomes to compare the script [auto_orthofinder.py](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Python%20Scripts/auto_orthofinder.py) runs orthofinder on all genomes.
 
 The program orthofinder.py is available from https://github.com/davidemms/OrthoFinder
 
-## orthofinder_parse_for_percent_shared_genes.py
+### orthofinder_parse_for_percent_shared_genes.py
 
 The script [orthofinder_parse_for_percent_shared_genes.py](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Python%20Scripts/orthofinder_parse_for_percent_shared_genes.py) is used to parse orthofinder output and provide a table of percent shared genes.
 
@@ -17,7 +17,7 @@ Marker gene clustering was completed using [uclustPipeline.py](https://github.co
 
 Parsing clustering data was completeed using [parse_uclust.py](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Python%20Scripts/parse_uclust.py)
 
-# clustering_clusters_per_genome.py, clustering_genomes_per_cluster.py and clustering_taxonomic_matches.py
+#### clustering_clusters_per_genome.py, clustering_genomes_per_cluster.py and clustering_taxonomic_matches.py
 
 Python scripts beginning with "clustering" were used to construct input tables for "marker gene clustering" figures (currently Figure 4). The input to the scripts are directly output from the program uclust (https://drive5.com/usearch/manual/uclust_algo.html). 
 
