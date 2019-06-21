@@ -51,6 +51,8 @@ The script [variation_stats.py](https://github.com/Joseph7e/Marker-genes-as-pred
 
 Marker gene clustering was completed using [uclustPipeline.py](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Python%20Scripts/uclustPipeline.py)
 
+UCLUST is available from https://drive5.com/usearch/manual/uclust_algo.html
+
 Parsing clustering data was completeed using [parse_uclust.py](https://github.com/Joseph7e/Marker-genes-as-predictors-of-shared-genomic-function/blob/master/Python%20Scripts/parse_uclust.py)
 
 Python scripts beginning with "clustering" were used to construct input tables for "marker gene clustering" figures (currently Figure 4).
